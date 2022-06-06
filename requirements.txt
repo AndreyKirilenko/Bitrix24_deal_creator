@@ -1,0 +1,4 @@
+fast-bitrix24
+django
+djangorestframework
+python-dotenv
