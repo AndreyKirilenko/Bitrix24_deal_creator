@@ -42,9 +42,11 @@
 
 ## Эндпойнты 
 
-
+Эндпойнт создает пользовательские поля в сущинсти сделка srm.dea
+```python
 GET http://127.0.0.1:8000/create_userfield/
-Эндпойнт создает пользовательские поля в сущинсти сделка srm.deal
+Content-Type: application/json
+```
 ```python
     "DESCRIPTION"
     "DELIVERY_ADRESS"
